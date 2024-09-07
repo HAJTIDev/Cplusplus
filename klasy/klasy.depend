@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1695113014 source:e:\c++\klasy\main.cpp
+	<iostream>
+	<string>
+	<bits/stdc++.h>
+
+1695561556 source:f:\c++\klasy\main.cpp
+	<iostream>
+	<string>
+	<bits/stdc++.h>
+

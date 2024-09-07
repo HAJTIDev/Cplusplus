@@ -1,0 +1,3 @@
+ile liczb2
+Liczba 1 = 2
+Srednia to 1

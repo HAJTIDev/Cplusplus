@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1638789219 source:c:\users\uczen\desktop\1p robaczek\1050 zad 4\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+

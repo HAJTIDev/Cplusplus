@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1678880826 source:e:\c++\bitowe +mnozenie\main.cpp
+	<algorithm>
+	<iostream>
+	<string>
+

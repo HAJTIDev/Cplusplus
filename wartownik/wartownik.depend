@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1646048526 source:e:\c++\wartownik\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+

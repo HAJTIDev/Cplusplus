@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1653306574 source:e:\c++\powtorzenie\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+

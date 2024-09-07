@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1669363082 source:e:\c++\zadania java ale c++\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	<algorithm>
+

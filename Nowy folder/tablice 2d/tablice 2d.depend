@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1639391900 source:c:\users\uczen\desktop\1p robaczek\tablice 2d\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+

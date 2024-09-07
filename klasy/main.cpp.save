@@ -1,0 +1,72 @@
+#include <iostream>
+#include <string>
+#include <bits/stdc++.h>
+using namespace std;
+
+class zamowienie{
+    private:
+    string nazwatowaru;
+    float ilesztuk, cena,laczna;
+    public:
+        zamowienie(string nazwa,float ile, float ceny){
+            nazwatowaru=nazwa;
+            ilesztuk=ile;
+            cena=ceny;
+            laczna=0;
+        }
+        double obliczWartosc(){
+            laczna=ilesztuk*cena;
+        return laczna;
+            }
+        void info(){
+            string informacja,cen,szt,razem;
+            stringstream l,m,n;
+            l<<ilesztuk;
+            m<<cena;
+            n<<laczna;
+            cen=m.str();
+            szt=l.str();
+            razem=n.str();
+
+            int k,j;
+                if(nazwatowaru.length()<=20 && cen.length()<=10 && l.str().length()<=4 && n.str().length()<=10){
+                informacja=nazwatowaru;
+                if( nazwatowaru.length()>5)k=nazwatowaru.length()-5;
+                j=20-k;
+                for(int i=0;i<j;i++)informacja+=' ';
+                k=0;
+                j=0;
+
+                informacja+=cen;
+                informacja+=" zl";
+                if(cen.length()>1) k=cen.length()-1;
+                j=10-k;
+                for(int i=0;i<j;i++)informacja+=' ';
+                k=0;
+                j=0;
+
+                informacja+=szt;
+                informacja+=" szt";
+                if(szt.length()>1) k=szt.length()-1;
+                j=4-k;
+                for(int i=0;i<j;i++)informacja+=' ';
+                informacja+=razem;
+                informacja+=" zl";
+                cout<<informacja<<endl;
+            }
+            else{
+                cout<<"zle wartosci wpisane"<<endl;
+            }
+        }
+};
+
+int main()
+{
+    zamowienie a("cukier",111,3.12);
+    zamowienie b("cukierki",4,12);
+    a.obliczWartosc();
+    b.obliczWartosc();
+    a.info();
+    b.info();
+    return 0;
+}

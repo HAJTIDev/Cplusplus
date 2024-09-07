@@ -1,0 +1,7 @@
+name Daria
+lastname Robak
+pesel 06320303366
+polish grade 4
+math grade 4
+english grade 5
+

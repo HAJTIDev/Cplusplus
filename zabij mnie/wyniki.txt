@@ -1,0 +1,9 @@
+Zad 1.1
+najwieksza wartosc to 6
+we wierszach nr: 11 12 26 38 44 
+
+Zad 1.2
+najwieksza wartosc to 3
+w przedzialach: 
+<52,64)
+<50,61>

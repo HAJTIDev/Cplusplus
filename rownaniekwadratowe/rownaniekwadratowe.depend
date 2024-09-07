@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1663573713 source:c:\users\programista\desktop\wojciech jagie³³o 2p\c++\rownaniekwadratowe\main.cpp
+	<iostream>
+	<cmath>
+	<fstream>
+	<string>
+

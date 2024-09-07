@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1702367666 source:e:\c++\zabij mnie\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+

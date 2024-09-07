@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1651227176 source:e:\c++\funkcja kwadratowa\main.cpp
+	<iostream>
+	<cmath>
+	<fstream>
+

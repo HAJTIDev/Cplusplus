@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1668432484 source:e:\c++\liczby zadanie\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+
+1668614446 source:f:\c++\liczby zadanie\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+

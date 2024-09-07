@@ -1,0 +1,10 @@
+Takie same: 18
+Pierwsza to: 93639
+
+liczba 99792 ma najwiecej czynnikow 10
+
+liczba 20992 ma najwiecej czynnikow 10
+
+liczba 56064 ma najwiecej czynnikow 10
+
+liczba 62790 ma najwiecej unikalnych czynnikow 6

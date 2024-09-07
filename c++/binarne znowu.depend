@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1685690802 source:e:\c++\binarne znowu\main.cpp
+	<iostream>
+	<fstream>
+
+1686419034 source:f:\c++\binarne znowu\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<bits/stdc++.h>
+	<bitset>
+	<algorithm>
+
+1686419734 source:f:\c++\c++\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<bits/stdc++.h>
+	<bitset>
+	<algorithm>
+

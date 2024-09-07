@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1664179686 source:e:\c++\kod cezara\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
+1664709658 source:f:\c++\kod cezara\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+

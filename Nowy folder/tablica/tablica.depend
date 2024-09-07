@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1638787050 source:c:\users\uczen\desktop\1p robaczek\tablica\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+

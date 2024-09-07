@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1650620470 source:e:\c++\cos\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+

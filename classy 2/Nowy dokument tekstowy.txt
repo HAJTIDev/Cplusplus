@@ -1,0 +1,41 @@
+#include <iostream>
+#include<cmath>
+using namespace std;
+class person
+{
+    string name;
+    string lastName;
+    int height;
+    int weight;
+
+ 
+
+public:
+person(string _name, string _lastName, int _height, int _weight) {
+    name = _name;
+    lastName = _lastName;
+    height = _height;
+    weight = _weight;
+}
+
+ 
+
+void show(){
+    cout<<"My name is "<<name<<" "<<lastName;
+}
+
+ 
+
+};
+int main()
+{
+
+ 
+
+    person o1("Aga", "Klekot", 165, 55);
+    o1.show();
+
+ 
+
+    return 0;
+}

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1694542658 source:f:\c++\punkty\main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+	<vector>
+	<limits>
+
+1694503332 source:e:\c++\punkty\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cmath>
+

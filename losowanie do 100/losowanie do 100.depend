@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1636975385 source:c:\users\uczen\desktop\1p robaczek\losowanie do 100\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+

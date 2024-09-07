@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1670568906 source:e:\c++\obiekty\main.cpp
+	<iostream>
+	<fstream>
+

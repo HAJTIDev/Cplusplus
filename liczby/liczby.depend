@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1664179396 source:e:\c++\liczby\main.cpp
+	<iostream>
+	<fstream>
+
+1664990212 source:f:\c++\liczby\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<sstream>
+
